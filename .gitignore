@@ -205,3 +205,11 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Repo specific settings
+
+profile_data.json
+channel_data.json
+post_data.json
+comment_data.json
+search_data.json
